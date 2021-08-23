@@ -30,4 +30,4 @@ while(True):
     if(option == "y"):
         diceSim()
     else:
-        break
+        break 
